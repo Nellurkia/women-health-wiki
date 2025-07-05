@@ -18,6 +18,7 @@ nav:
   - 首页: index.md
   - 生理健康:
     - 月经周期: physiology/menstrual-cycle.md
+    - 子宫内膜异位症（测试页面）: physiology/neiyizheng.md
     - 月经用品: physiology/menstrual-pad.md
 
 markdown_extensions:
