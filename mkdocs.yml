@@ -1,8 +1,8 @@
 site_name: 女性健康知识百科
 site_description: 专业的女性健康知识分享平台
-site_url: https://your-username.github.io/women-health-wiki/  # 替换为您的 GitHub 用户名
-repo_url: https://github.com/your-username/women-health-wiki  # 替换为您的仓库地址
-repo_name: your-username/women-health-wiki  # 替换为您的仓库名
+site_url: https://nellurkia.github.io/women-health-wiki/
+repo_url: https://github.com/Nellurkia/women-health-wiki
+repo_name: Nellurkia/women-health-wiki
 
 theme:
   name: material
@@ -18,19 +18,7 @@ nav:
   - 首页: index.md
   - 生理健康:
     - 月经周期: physiology/menstrual-cycle.md
-    - 生殖系统: physiology/reproductive-system.md
-  - 心理健康:
-    - 情绪管理: mental/emotion-management.md
-    - 压力调节: mental/stress-management.md
-  - 营养保健:
-    - 饮食指南: nutrition/dietary-guidelines.md
-    - 营养补充: nutrition/supplements.md
-  - 运动健身:
-    - 运动建议: fitness/exercise-tips.md
-    - 瑜伽指南: fitness/yoga-guide.md
-  - 疾病预防:
-    - 常见疾病: prevention/common-diseases.md
-    - 定期检查: prevention/regular-checkups.md
+    - 月经用品: physiology/menstrual-pad.md
 
 markdown_extensions:
   - pymdownx.highlight
