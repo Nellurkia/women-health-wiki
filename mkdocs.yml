@@ -37,7 +37,6 @@ nav:
       - 围绝经期: aub/menstrual-cycle.md
 
   - 月经相关疾病:
-  
     - 子宫内膜相关疾病:
       - 子宫内膜异位症: physiology/neiyizheng.md
       - 子宫内膜息肉: physiology/endometrial-polyps.md
@@ -51,7 +50,6 @@ nav:
       - 卵巢早衰: physiology/premature-ovarian-failure.md
       - 围绝经期综合征: physiology/perimenopausal-syndrome.md
       - 功能失调性子宫出血: physiology/dysfunctional-uterine-bleeding.md
-
     - 激素紊乱:
       - 甲状腺异常: physiology/thyroid-disorders.md
       - 泌乳素异常: physiology/prolactin-disorders.md
@@ -120,12 +118,10 @@ nav:
       - 尖锐湿疣: otherbleed/genital-warts.md
       - 性病性淋巴肉芽肿: otherbleed/lymphogranuloma-venereum.md
       - 生殖器疱疹: otherbleed/genital-herpes.md
-
   
   - 常见症状:
     - 痛经: symptom/menstrual-cycle.md
     - 经前期综合征: symptom/pms.md
-
 
 markdown_extensions:
   - pymdownx.highlight
