@@ -133,3 +133,14 @@ markdown_extensions:
   - pymdownx.emoji
   - admonition
   - footnotes
+  - admonition
+  - toc:
+      permalink: true
+  - attr_list
+  - def_list
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
