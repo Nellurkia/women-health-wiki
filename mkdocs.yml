@@ -120,7 +120,7 @@ nav:
       - 生殖器疱疹: otherbleed/genital-herpes.md
   
   - 常见症状:
-    - 痛经: symptom/menstrual-cycle.md
+    - 痛经: symptom/period-pain.md
     - 经前期综合征: symptom/pms.md
 
 markdown_extensions:
