@@ -21,7 +21,7 @@ nav:
   - 首页: index.md
 
   - 基础知识:
-    - 月经基础知识: basic/menstrual-cycle.md
+    - 月经基础知识: basic/menstrual-basic.md
     - 月经是什么: basic/yes-s.md
     - 月经不是什么: basic/no-s.md
 
@@ -43,7 +43,7 @@ nav:
 
   - 月经相关疾病:
     - 子宫内膜相关疾病:
-      - 子宫内膜异位症: physiology/neiyizheng.md
+      - 子宫内膜异位症: physiology/endometriosis.md
       - 子宫内膜息肉: physiology/endometrial-polyps.md
       - 子宫内膜炎: physiology/endometritis.md
       - 子宫内膜增生: physiology/endometrial-hyperplasia.md

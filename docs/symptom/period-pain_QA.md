@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # 痛经QA
 
 **痛经（原发性）典型病人**
