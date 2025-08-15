@@ -4,6 +4,7 @@ site_url: https://nellurkia.github.io/women-health-wiki/
 repo_url: https://github.com/Nellurkia/women-health-wiki
 repo_name: Nellurkia/women-health-wiki
 
+
 theme:
   name: material
   features:
@@ -13,6 +14,8 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+
+
 
 nav:
   - 首页: index.md
@@ -124,13 +127,6 @@ nav:
   - 常见症状:
     - 痛经: symptom/period-pain.md
     - 经前期综合征: symptom/pms.md
-
-# 排除搜索的文档（这些文档不会出现在搜索结果中）
-exclude_docs: |
-  physiology/neiyizheng_QA.md
-  physiology/corpus-luteum-cysts_QA.md
-  physiology/uterine-fibroids_QA.md
-  physiology/adenomyosis_QA.md
 
 markdown_extensions:
   - pymdownx.highlight

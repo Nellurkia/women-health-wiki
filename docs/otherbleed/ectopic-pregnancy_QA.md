@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # 异位妊娠QA
 
 **异位妊娠典型病人**

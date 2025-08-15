@@ -90,6 +90,11 @@
 
 ● 定期（一年一次或两年一次）进行妇科检查，月经后半周期出现下腹疼痛时应及时到医院就诊。
 
+---
+
+**编写者：** 杨静萱
+**上传者：** 张梓润
+
 ## **参考文献** 
 [^1]:[杨东, 白文佩. 卵巢黄体破裂诊治中国专家共识（2024年版）. 中国实用妇科与产科杂志, 40(05): 535-540, 2024. DOI: 10.19538/j.fk2024050113.](https://www.sinomed.ac.cn/article.do?ui=2024343054)
 [^2]:[KimMi Ju, KimHyun Mi, SeongWon Joon. The Predicting Factors for Indication of Surgery in Patients with Hemoperitoneum Caused by Corpus Luteum Cyst Rupture. Scientific Reports, 11: 17766, 2021. DOI: 10.1038/s41598-021-97214-6.](https://link.springer.com/article/10.1038/s41598-021-97214-6)
@@ -97,11 +102,6 @@
 [^4]:[陈晓燕,游华蓉,王洁.卵巢黄体囊肿破裂263例相关因素及临床特征分析[J].海南医学,2011,22(20):87-89.](https://d.wanfangdata.com.cn/periodical/ChVQZXJpb2RpY2FsQ0hJMjAyNTA2MjISEWhhaW5hbnl4MjAxMTIwMDQwGgh0b244cGhjMw%3D%3D)
 [^5]:[苏德慧, 杨欣. 妇科手术对卵巢储备功能的影响. 中国实用妇科与产科杂志, 39(09): 887-890, 2023. DOI: 10.19538/j.fk2023090106.](https://d.wanfangdata.com.cn/periodical/ChVQZXJpb2RpY2FsQ0hJMjAyNTA2MjISFHpnc3lma3lja3p6MjAyMzA5MDA3GghkNnFwODZoZA%3D%3D)
 [^6]:[TakedaAkihiro, SakaiKotaro, MitsuiTakashi, 等. Management of Ruptured Corpus Luteum Cyst of Pregnancy Occurring in a 15-Year-Old Girl by Laparoscopic Surgery with Intraoperative Autologous Blood Transfusion. Journal of Pediatric and Adolescent Gynecology, 20(2): 97--100, 2007. DOI: 10.1016/j.jpag.2006.09.017.](https://pubmed.ncbi.nlm.nih.gov/17418394/)
-
-
-
-
-
 
 
 

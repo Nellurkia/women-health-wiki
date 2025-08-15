@@ -1,8 +1,7 @@
+
 ---
-hide:
-  - navigation
-  - search
-  - toc
+search:
+  exclude: true
 ---
 
 # 子宫内膜异位症QA
