@@ -18,25 +18,25 @@ nav:
   - 首页: index.md
 
   - 基础知识:
-    - 月经周期: basic/menstrual-cycle.md
+    - 月经基础知识: basic/menstrual-cycle.md
     - 月经是什么: basic/yes-s.md
     - 月经不是什么: basic/no-s.md
 
   - 月经异常出血:
     - 按流量划分:
       - 月经量过多: aub/hmb.md
-      - 月经量过少: aub/menstrual-cycle.md
+      - 月经量过少: aub/scanty-menstruation.md
     - 按时间划分:
-      - 月经频发: aub/menstrual-cycle.md
-      - 月经稀发: aub/menstrual-cycle.md
-      - 月经不规则: aub/menstrual-cycle.md
-      - 周期延长或缩短: aub/menstrual-cycle.md
-      - 经期延长或缩短: aub/menstrual-cycle.md
-      - 闭经: aub/menstrual-cycle.md
+      - 月经频发: aub/frequent-menstruation.md
+      - 月经稀发: aub/oligomenorrhea.md
+      - 月经不规则: aub/irregular-menstruation.md
+      - 周期延长或缩短: aub/cycle-length-changes.md
+      - 经期延长或缩短: aub/period-duration-changes.md
+      - 闭经: aub/amenorrhea.md
     - 按年龄划分:
-      - 青春期: aub/menstrual-cycle.md
-      - 育龄期: aub/menstrual-cycle.md
-      - 围绝经期: aub/menstrual-cycle.md
+      - 青春期: aub/adolescent-menstrual-disorders.md
+      - 育龄期: aub/reproductive-age-disorders.md
+      - 围绝经期: aub/perimenopausal-disorders.md
 
   - 月经相关疾病:
     - 子宫内膜相关疾病:
@@ -124,6 +124,13 @@ nav:
   - 常见症状:
     - 痛经: symptom/period-pain.md
     - 经前期综合征: symptom/pms.md
+
+# 排除搜索的文档（这些文档不会出现在搜索结果中）
+exclude_docs: |
+  physiology/neiyizheng_QA.md
+  physiology/corpus-luteum-cysts_QA.md
+  physiology/uterine-fibroids_QA.md
+  physiology/adenomyosis_QA.md
 
 markdown_extensions:
   - pymdownx.highlight
