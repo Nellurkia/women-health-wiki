@@ -134,6 +134,10 @@
 
 医生会根据您的具体情况制定合适的诊疗方案，以改善生活质量
 
-### 引用
+---
+
+**编写者：** 颜妞  **上传者：** 张梓润
+
+### 参考文献
 
 [^1]:[ DaviesJoanna, KadirRezan A.. Heavy Menstrual Bleeding](https://pubmed.ncbi.nlm.nih.gov/28262240/)

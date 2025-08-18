@@ -88,6 +88,10 @@
 
     + **针灸**： 针灸疗法也被用于调节青少年的月经不规律。
 
+---
+
+**编写者：** 杨静萱  **上传者：** 张梓润
+
 ### 参考文献
 
 [^1]:[The Impact of Irregular Menstruation on Health: A Review of the Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC10733621/)

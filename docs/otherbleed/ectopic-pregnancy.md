@@ -187,7 +187,11 @@
 
 ● **合理选择避孕方式**：选择合适的避孕方式，避免意外妊娠。
 
-##引用
+---
+
+**编写者：** 颜妞  **上传者：** 张梓润
+
+##参考文献
 
 [^1]:[An Update and Review of Nontubal Ectopic Pregnancy Management.](https://pubmed.ncbi.nlm.nih.gov/37387695/)
 

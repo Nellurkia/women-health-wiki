@@ -6,7 +6,7 @@
 
 ## 分类
 
-![图1 分类](../physiology/uterine-fibroids_1.png)
+![图1 分类](..\physiology\uterine-fibroids_1.png)
 *图1：国际妇产科联盟（FIGO）子宫肌瘤9型分类方法示意图*
 
 ## 病因
@@ -105,7 +105,7 @@
 
 ## 诊疗流程
 
-![图2 诊疗流程](../physiology/uterine-fibroids_2.png)
+![图2 诊疗流程](..\physiology\uterine-fibroids_2.png)
 *图2：诊疗流程*
 
 ## 就医建议
@@ -120,7 +120,11 @@
 
 **关注心理健康**:社会和家庭支持对改善健康结果至关重要。
 
-## 引用
+---
+
+**编写者：** 颜妞  **上传者：** 张梓润
+
+## 参考文献
 
 [^1]:[子宫肌瘤的诊治中国专家共识专家组.子宫肌瘤的诊治中国专家共识[J].中华妇产科杂志](https://cmab.yiigle.com/uploads/guide_html/%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%E7%9A%84%E8%AF%8A%E6%B2%BB%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86.html)
 

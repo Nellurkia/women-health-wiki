@@ -242,11 +242,16 @@ WHO最新数据显示，子宫内膜异位症影响到全球大约10%（1.9亿�
 
 ● 怀孕困难。
 
+---
 
+**编写者：** 颜妞  **上传者：** 张梓润
 
-
-
-
+## 参考文献
+[^1]:[郎景和.关于子宫内膜异位症的再认识及其意义[J].中国工程科学,2009,11(10):137-142.](https://www.engineering.org.cn/sscae/CN/Y2009/V11/I10/137#4)
+[^2]:[BurneyRichard O., GiudiceLinda C.. Pathogenesis and Pathophysiology of Endometriosis. Fertility and Sterility, 98(3): 511--519, 2012. DOI: 10.1016/j.fertnstert.2012.06.029.](https://pubmed.ncbi.nlm.nih.gov/22819144/)
+[^3]:[郎景和.对子宫内膜异位症认识的历史、现状与发展[J].中国实用妇科与产科杂志,2020,36(03):193-196.DOI:10.19538/j.fk2020030101.](http://dx.doi.org/10.19538/j.fk2020030101)
+[^4]:[中国医师协会妇产科医师分会,中华医学会妇产科学分会子宫内膜异位症协作组.子宫内膜异位症诊治指南（第三版）[J]. 中华妇产科杂志, 2021, 56(12): 812-824. DOI: 10.3760/cma. j. cn112141-20211018-00603.](https://rs.yiigle.com/cmaid/1346124)
+[^5]:[内异症自我管理指南](../self-care-guide.md)
 <!-- ### 常见症状统计（示例）
 
 | 症状类型 | 发生率 | 严重程度 | 影响生活质量 |
@@ -281,8 +286,4 @@ WHO最新数据显示，子宫内膜异位症影响到全球大约10%（1.9亿�
 
 <!-- [^1]: [中国医师协会妇产科医师分会,中华医学会妇产科学分会子宫内膜异位症协作组.子宫内膜异位症诊治指南（第三版）[J]. 中华妇产科杂志, 2021, 56(12): 812-824. DOI: 10.3760/cma. j. cn112141-20211018-00603.](https://doi.org/10.3760/cma.j.cn112141-20211018-00603)
 [^2]:  [WHO子宫内膜异位症全球报告](https://www.who.int/news-room/fact-sheets/detail/endometriosis) -->
-[^1]:[郎景和.关于子宫内膜异位症的再认识及其意义[J].中国工程科学,2009,11(10):137-142.](https://www.engineering.org.cn/sscae/CN/Y2009/V11/I10/137#4)
-[^2]:[BurneyRichard O., GiudiceLinda C.. Pathogenesis and Pathophysiology of Endometriosis. Fertility and Sterility, 98(3): 511--519, 2012. DOI: 10.1016/j.fertnstert.2012.06.029.](https://pubmed.ncbi.nlm.nih.gov/22819144/)
-[^3]:[郎景和.对子宫内膜异位症认识的历史、现状与发展[J].中国实用妇科与产科杂志,2020,36(03):193-196.DOI:10.19538/j.fk2020030101.](http://dx.doi.org/10.19538/j.fk2020030101)
-[^4]:[中国医师协会妇产科医师分会,中华医学会妇产科学分会子宫内膜异位症协作组.子宫内膜异位症诊治指南（第三版）[J]. 中华妇产科杂志, 2021, 56(12): 812-824. DOI: 10.3760/cma. j. cn112141-20211018-00603.](https://rs.yiigle.com/cmaid/1346124)
-[^5]:[内异症自我管理指南](../self-care-guide.md)
+

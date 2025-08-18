@@ -136,10 +136,16 @@
 
   ○ 如果在各种类型的治疗后仍有严重疼痛，医生可能会做一项阻断子宫神经的手术，从而阻断疼痛信号。
 
-## 引用
+
+
+## 参考文献
 
 [^1]:[Dysmenorrhea and Related Disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC5585876/)
 
 [^2]:[默沙东诊疗手册](https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/menstrual-abnormalities/dysmenorrhea)
 
 [^3]:[What we know about primary dysmenorrhea today: a critical review](https://academic.oup.com/humupd/article/21/6/762/628858?login=false)
+
+---
+
+**编写者：** 杨静萱  **上传者：** 张梓润
