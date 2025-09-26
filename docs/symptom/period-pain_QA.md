@@ -23,7 +23,7 @@ search:
 情况或许是身体在提示你需要多关注痛经问题了，可不能一直硬扛着呀。
 
 ### 科普讲解
-像你这样从青春期就出现的痛经，很可能是原发性痛经。这主要是因为月经时子宫内膜前列腺素含量增高，引起子宫平滑肌过强收缩、血管痉挛，造成子宫缺血、缺氧状态，从而出现疼痛[^1]。通常原发性痛经在月经规律来潮后开始，疼痛多在月经来潮后开始，最早出现在经前 12 小时，以行经第 1 日疼痛最剧烈，持续 2 - 3 日后缓解，你疼痛持续 1 - 2 天、经量正常等表现也和它的特点比较相符。
+像你这样从青春期就出现的痛经，很可能是原发性痛经。这主要是因为月经时子宫内膜前列腺素含量增高，引起子宫平滑肌过强收缩、血管痉挛，造成子宫缺血、缺氧状态，从而出现疼痛[^1]。通常原发性痛经在月经规律来潮后开始，疼痛多在月经来潮后开始，最早出现在经前 12 小时，以行经第 1 日疼痛最剧烈，持续 2 - 3 日后缓解，你疼痛持续 1 - 2 天、经量正常等表现也和它的特点比较相符。[^2]
 
 ### 就医引导
 月经期间要注意保暖，尤其是腹部和腰部，可不要受凉哇；可以适当喝些温热的红糖姜茶，暖身也暖心；饮食上避免吃生冷、辛辣刺激的食物；在经期让自己好好休息一下，保证充足的睡眠，避免过度劳累。疼痛的时候也可以用热水袋敷在腹部，可以缓解一些疼痛。
@@ -47,6 +47,6 @@ search:
 
 **参考文献**
 
-[^1]:[默沙东诊疗手册](https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/menstrual-abnormalities/dysmenorrhea)
+[^1]:[ 默沙东诊疗手册](https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/menstrual-abnormalities/dysmenorrhea)
 
 [^2]:[What we know about primary dysmenorrhea today: a critical review](https://academic.oup.com/humupd/article/21/6/762/628858?login=false)

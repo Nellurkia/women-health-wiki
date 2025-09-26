@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # 子宫肌瘤QA
 
 ## 用户画像：

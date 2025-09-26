@@ -60,5 +60,10 @@ search:
 - 痛经会不会是内异症？
 - 月经过多会影响生育吗？
 
+**编写者：** 左钰洁  **上传者：** 左钰洁
 
 
+### 参考文献
+
+[^1]:[ DaviesJoanna, KadirRezan A.. Heavy Menstrual Bleeding](https://pubmed.ncbi.nlm.nih.gov/28262240/)
+[^2]:[ DaviesJoanna, KadirRezan A.. Heavy Menstrual Bleeding](https://pubmed.ncbi.nlm.nih.gov/28262240/)
